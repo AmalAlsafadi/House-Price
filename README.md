@@ -17,11 +17,11 @@ The dataset contains 36 numerical values and 43 categorical values. The numerica
 ### Data Modelling
 - Linear regression model was used with all variables as our benchmark model. 
 - Afterword regularization has been used to improve the prediction. 
-- We used Lasso, Ridge, Elasticnet and Random Forest regression models and tuned their parameters to get the best model. 
-- we used the features selected during the EDA step and applied the same models. 
-- the best score RMSE=12055 was achieved by using Lasso Regression with all variables.
+- Lasso, Ridge, Elasticnet and Random Forest regression models were applied and tuned their parameters to get the best model. 
+- The features selected during the EDA step has been used on the same models. 
+- The best score RMSE=12055 was achieved by using Lasso Regression with all variables.
 
 <p align="center">
-<img src="/Model%20Comparation.png" alt="drawing" width="400"/>
+<img src="/Model%20Comparation.png" alt="Model 'Comparation" width="400"/>
 </p>
 
