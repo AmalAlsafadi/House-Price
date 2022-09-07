@@ -22,6 +22,6 @@ The dataset contains 36 numerical values and 43 categorical values. The numerica
 - the best score RMSE=12055 was achieved by using Lasso Regression with all variables.
 
 <p align="center">
-<img src="/Images/Model%20Comparation.png" alt="drawing" width="300"/>
+<img src="/Model%20Comparation.png" alt="drawing" width="400"/>
 </p>
 
